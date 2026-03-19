@@ -72,7 +72,7 @@ video_summarization/
 - OPENAI_API_KEY=your_openai_api_key_here
 
 ###    2. Local Installation (GPU only)
-- git clone https://github.com/hakazmi/Video-Analysis-Summarization.git
+- git clone [https://github.com/hakazmi/Video-Analysis-Summarization.git]
 - cd Video-Analysis-Summarization
 
 ### Create virtual environment
